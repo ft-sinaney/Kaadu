@@ -233,13 +233,9 @@ function paint(i) {
 /* load frames with a small concurrency window; data URIs mean this
    is decode time, not network time */
 function loadFrames(done) {
-  const fill = $("#bootFill"), pct = $("#bootPct");
   let next = 0, live = 0;
   const bump = () => {
     ready++;
-    const p = ready / N;
-    fill.style.width = (p * 100) + "%";
-    pct.textContent = Math.round(p * 100) + "%";
     if (ready === 1) { sizeCanvas(); paint(OFF); }
     if (ready === N) done();
     else pump();
@@ -795,14 +791,10 @@ measure();
 onScroll();
 requestAnimationFrame(tick);
 
-const finish = () => {
-  const boot = $("#boot");
-  if (!boot || boot.classList.contains("done")) return;
-  boot.classList.add("done");
-  setTimeout(() => { boot.remove(); measure(); readScroll(); }, 1000);
-};
-loadFrames(finish);
-setTimeout(finish, 9000); /* never hold the page hostage to decoding */
+/* frames finish loading quietly in the background — the page is
+   already visible and interactive the moment it loads, whether that's
+   the homepage or a deep link (a species page, #flora, a QR scan) */
+loadFrames(() => { measure(); readScroll(); });
 
 })();
 

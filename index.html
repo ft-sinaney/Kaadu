@@ -76,17 +76,6 @@ a{color:inherit;text-decoration:none}
 .btn--solid:hover{background:var(--forest-deep);border-color:var(--forest-deep)}
 .btn--ghost:hover{background:var(--forest);color:var(--paper-2)}
 
-/* ============================================================
-   Boot
-   ============================================================ */
-#boot{position:fixed;inset:0;z-index:200;background:var(--paper);
-  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:26px;
-  transition:opacity .9s var(--ease),visibility .9s}
-#boot.done{opacity:0;visibility:hidden;pointer-events:none}
-.boot__mark{font-family:var(--serif);font-size:1.7rem;letter-spacing:.36em;color:var(--forest-deep);padding-left:.36em}
-.boot__track{width:min(220px,50vw);height:1px;background:var(--hair);position:relative;overflow:hidden}
-.boot__fill{position:absolute;inset:0 auto 0 0;width:0;background:var(--forest)}
-.boot__pct{font-size:.6875rem;letter-spacing:.2em;color:var(--ink-3);font-variant-numeric:tabular-nums}
 
 /* ============================================================
    Masthead
@@ -515,12 +504,6 @@ body.on-species #species-page{display:block}
   border-radius:100px;background:rgba(253,253,246,.92);color:#2F4A1E;border:1px solid rgba(0,0,0,.1)}
 .zoom__x svg{width:16px;height:16px}
 </style>
-<div id="boot">
-  <div class="boot__mark">KAADU</div>
-  <div class="boot__track"><div class="boot__fill" id="bootFill"></div></div>
-  <div class="boot__pct" id="bootPct">0%</div>
-</div>
-
 <header class="mast" id="mast">
   <a class="mast__brand" href="#top">
     <svg class="mast__leaf" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">
