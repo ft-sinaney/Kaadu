@@ -88,7 +88,7 @@ a{color:inherit;text-decoration:none}
 .mast.stuck{background:rgba(245,245,235,.86);backdrop-filter:blur(14px) saturate(140%);
   -webkit-backdrop-filter:blur(14px);border-bottom-color:var(--hair)}
 .mast__brand{display:flex;align-items:center;gap:.65rem;min-width:0}
-.mast__leaf{width:44px;height:44px;flex:none;object-fit:contain;mix-blend-mode:multiply}
+.mast__leaf{width:44px;height:44px;flex:none;object-fit:contain}
 .mast__name{font-family:var(--serif);font-size:1.05rem;letter-spacing:.22em;color:var(--forest-deep);
   line-height:1.15;padding-left:.22em}
 .mast__sub{font-size:.5625rem;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-3)}
@@ -394,7 +394,8 @@ a{color:inherit;text-decoration:none}
   padding:clamp(3rem,7vh,5rem) 0 calc(64px + 5rem)}
 @media (max-width:620px){.foot{padding-bottom:calc(64px + 7rem)}}
 .foot__grid{display:grid;grid-template-columns:1.5fr 1fr;gap:2.5rem;align-items:start}
-.foot__logo{display:block;width:220px;height:auto;mix-blend-mode:multiply;margin:-1rem 0 .4rem -1rem}
+.foot__logo{display:block;width:220px;height:auto;margin:-1rem 0 .4rem -1rem}
+@media (max-width:640px){.foot__logo{width:240px;margin:-.5rem auto .6rem}}
 .foot p{margin:1rem 0 0;max-width:54ch}
 .foot__links{display:flex;flex-direction:column;gap:.65rem}
 .foot__links a,.foot__links button{padding:0;font-size:.8125rem;color:var(--ink-2);text-align:left;transition:color .3s}
@@ -666,7 +667,7 @@ body.on-species #species-page{display:block}
 <footer class="foot">
   <div class="wrap foot__grid">
     <div>
-      <img class="foot__logo" src="images/brand/thanal-logo.jpg" alt="Thanal — for people, nature and a shared tomorrow" width="640" height="640" loading="lazy">
+      <img class="foot__logo" src="images/brand/thanal-logo.png" alt="Thanal — for people, nature and a shared tomorrow" width="640" height="640" loading="lazy">
       <p class="fine">A field guide to the plants, trees and butterflies of Kerala. The plant catalogue follows our campus survey; search, species pages and the QR scanner are live.</p>
       <p class="fine">Descriptions are short reference notes, not identification keys. Do not eat, brew or apply anything on the strength of a web page.</p>
     </div>
