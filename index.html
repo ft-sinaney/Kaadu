@@ -3,7 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Kaadu — a field guide to Kerala's plants and butterflies</title>
+<title>Thanal — a field guide to Kerala's plants and butterflies</title>
+<link rel="icon" type="image/png" href="images/brand/favicon.png">
+<link rel="apple-touch-icon" href="images/brand/apple-touch-icon.png">
 <meta name="description" content="A field guide to the trees, plants and butterflies of Kerala, on the flowering coast of the Western Ghats.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -86,10 +88,12 @@ a{color:inherit;text-decoration:none}
 .mast.stuck{background:rgba(245,245,235,.86);backdrop-filter:blur(14px) saturate(140%);
   -webkit-backdrop-filter:blur(14px);border-bottom-color:var(--hair)}
 .mast__brand{display:flex;align-items:center;gap:.65rem;min-width:0}
-.mast__leaf{width:26px;height:26px;color:var(--forest);flex:none}
+.mast__leaf{width:44px;height:44px;flex:none;object-fit:contain;mix-blend-mode:multiply}
 .mast__name{font-family:var(--serif);font-size:1.05rem;letter-spacing:.22em;color:var(--forest-deep);
   line-height:1.15;padding-left:.22em}
 .mast__sub{font-size:.5625rem;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-3)}
+.mast__br{display:none}
+@media (max-width:560px){.mast__br{display:inline}.mast__sub{display:inline-block;letter-spacing:.14em;line-height:1.4;white-space:nowrap}}
 .mast__nav{display:flex;gap:1.7rem;align-items:center;margin-inline:auto}
 .mast__nav a{font-size:.8125rem;color:var(--ink-2);letter-spacing:.02em;position:relative;padding-block:.3rem}
 .mast__nav a::after{content:"";position:absolute;left:0;right:100%;bottom:0;height:1px;
@@ -390,9 +394,7 @@ a{color:inherit;text-decoration:none}
   padding:clamp(3rem,7vh,5rem) 0 calc(64px + 5rem)}
 @media (max-width:620px){.foot{padding-bottom:calc(64px + 7rem)}}
 .foot__grid{display:grid;grid-template-columns:1.5fr 1fr;gap:2.5rem;align-items:start}
-.foot__mark{display:flex;align-items:center;gap:.6rem}
-.foot__mark span{font-family:var(--serif);font-size:1.4rem;letter-spacing:.26em;padding-left:.26em;color:var(--forest-deep)}
-.foot__mark svg{width:26px;height:26px;color:var(--forest)}
+.foot__logo{display:block;width:220px;height:auto;mix-blend-mode:multiply;margin:-1rem 0 .4rem -1rem}
 .foot p{margin:1rem 0 0;max-width:54ch}
 .foot__links{display:flex;flex-direction:column;gap:.65rem}
 .foot__links a,.foot__links button{padding:0;font-size:.8125rem;color:var(--ink-2);text-align:left;transition:color .3s}
@@ -506,12 +508,10 @@ body.on-species #species-page{display:block}
 </style>
 <header class="mast" id="mast">
   <a class="mast__brand" href="#top">
-    <svg class="mast__leaf" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">
-      <path d="M12 21V11"/><path d="M12 14c0-4.4 3.6-8 8-8 0 4.4-3.6 8-8 8Z"/><path d="M12 18c0-3.3-2.7-6-6-6 0 3.3 2.7 6 6 6Z"/>
-    </svg>
+    <img class="mast__leaf" src="images/brand/emblem.png" alt="" aria-hidden="true">
     <span>
-      <span class="mast__name">KAADU</span><br>
-      <span class="mast__sub">A field guide to Kerala</span>
+      <span class="mast__name">THANAL</span><br>
+      <span class="mast__sub">For people, nature <br class="mast__br">and a shared tomorrow</span>
     </span>
   </a>
   <nav class="mast__nav">
@@ -666,10 +666,7 @@ body.on-species #species-page{display:block}
 <footer class="foot">
   <div class="wrap foot__grid">
     <div>
-      <div class="foot__mark">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><path d="M12 21V11"/><path d="M12 14c0-4.4 3.6-8 8-8 0 4.4-3.6 8-8 8Z"/><path d="M12 18c0-3.3-2.7-6-6-6 0 3.3 2.7 6 6 6Z"/></svg>
-        <span>KAADU</span>
-      </div>
+      <img class="foot__logo" src="images/brand/thanal-logo.jpg" alt="Thanal — for people, nature and a shared tomorrow" width="640" height="640" loading="lazy">
       <p class="fine">A field guide to the plants, trees and butterflies of Kerala. The plant catalogue follows our campus survey; search, species pages and the QR scanner are live.</p>
       <p class="fine">Descriptions are short reference notes, not identification keys. Do not eat, brew or apply anything on the strength of a web page.</p>
     </div>

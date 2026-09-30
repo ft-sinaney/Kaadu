@@ -727,7 +727,7 @@ function renderSpecies(kind, idx) {
   <a href="${slugOf(kind, pi)}"><span>Previous</span>${prev.n}</a>
   <a href="${slugOf(kind, ni)}"><span>Next</span>${next.n}</a>
 </nav>`;
-  document.title = rec.n + " — Kaadu";
+  document.title = rec.n + " — Thanal";
 }
 
 function route() {
@@ -739,7 +739,7 @@ function route() {
   } else {
     document.body.classList.remove("on-species");
     spCurrent = null;
-    document.title = "Kaadu — a field guide to Kerala's plants and butterflies";
+    document.title = "Thanal — a field guide to Kerala's plants and butterflies";
     measure(); readScroll();
   }
 }
