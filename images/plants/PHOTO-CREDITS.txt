@@ -1,0 +1,564 @@
+Plant photo credits
+====================
+All photos are from Wikimedia Commons, used under their stated
+Creative Commons licences (CC BY / CC BY-SA / CC0). CC BY and CC BY-SA
+require attribution — keep this file, or credit the photographers
+somewhere on the published site (e.g. a small "Photo credits" page
+or footer). CC0 photos are public domain and need no credit, but are
+listed here anyway for reference.
+
+Cinnamon (Cinnamomum verum)
+-----------------------------
+main.jpg
+  "Cinnamomum verum young leaves at Thattekkadu (1).jpg"
+  (c) Vinayaraj, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_young_leaves_at_Thattekkadu_(1).jpg
+
+gallery-1.jpg
+  "Cinnamomum zeylanicum bark.JPG"
+  (c) VASANTH S.N., CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File:Cinnamomum_zeylanicum_bark.JPG
+
+gallery-2.jpg
+  "Cinnamomum zeylanicum leaves.JPG"
+  (c) VASANTH S.N., CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File:Cinnamomum_zeylanicum_leaves.JPG
+
+Makrut lime (Citrus hystrix)
+-------------------------------
+main.jpg
+  "Citrus hystrix in Jardin des Plantes de Toulouse 03.jpg"
+  (c) Krzysztof Golik, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Citrus_hystrix_in_Jardin_des_Plantes_de_Toulouse_03.jpg
+
+gallery-1.jpg
+  "Kaffir Lime (Citrus hystrix) 2.jpg"
+  (c) Mokkie, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Kaffir_Lime_(Citrus_hystrix)_2.jpg
+
+gallery-2.jpg
+  "Citrus hystrix, called the kaffir lime in Andhra Pradesh.jpeg"
+  (c) Shagil Muzhappilangad, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Citrus_hystrix,_called_the_kaffir_lime_in_Andhra_Pradesh.jpeg
+
+Malabar tamarind (Garcinia gummi-gutta)
+------------------------------------------
+main.jpg
+  "കുടംപുളി 24z.jpg"
+  (c) Anish nellickal, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B4%82%E0%B4%AA%E0%B5%81%E0%B4%B3%E0%B4%BF_24z_.jpg
+
+gallery-1.jpg
+  "Kudampuli.JPG"
+  (c) Tonynirappathu, CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File:Kudampuli.JPG
+
+gallery-2.jpg
+  "Garcinia gummi-gutta Kudampuli cross section of fruit.jpg"
+  (c) Vijayanrajapuram, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Garcinia_gummi-gutta_Kudampuli_cross_section_of_fruit.jpg
+
+China doll tree (Radermachera sinica)
+-----------------------------------------
+main.jpg
+  "Flowers of china doll (Radermachera sinica) in West Bengal, India.jpg"
+  (c) Billjones94, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Flowers_of_china_doll_(Radermachera_sinica)_in_West_Bengal,_India.jpg
+
+gallery-1.jpg
+  "Radermachera sinica kz1.JPG"
+  (c) Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Radermachera_sinica_kz1.JPG
+
+gallery-2.jpg
+  "Starr-090803-3612-Radermachera sinica-leaves-Wailuku-Maui (24877699051).jpg"
+  (c) Forest and Kim Starr, CC BY 3.0 us
+  https://commons.wikimedia.org/wiki/File:Starr-090803-3612-Radermachera_sinica-leaves-Wailuku-Maui_(24877699051).jpg
+
+Copperleaf (Acalypha wilkesiana)
+------------------------------------
+main.jpg
+  "Acalypha wilkesiana Musaïca 2.JPG"
+  (c) Dinkum, CC0 (public domain, no credit required)
+  https://commons.wikimedia.org/wiki/File:Acalypha_wilkesiana_Musa%C3%AFca_2.JPG
+
+gallery-1.jpg
+  "Acalypha wilkesiana 'Rosea' - Mounts Botanical Garden - Palm Beach County, Florida - DSC03743.jpg"
+  (c) Daderot, CC0 (public domain, no credit required)
+  https://commons.wikimedia.org/wiki/File:Acalypha_wilkesiana_%27Rosea%27_-_Mounts_Botanical_Garden_-_Palm_Beach_County,_Florida_-_DSC03743.jpg
+
+gallery-2.jpg
+  "Acalypha wilkesiana Musaïca 3.JPG"
+  (c) Dinkum, CC0 (public domain, no credit required)
+  https://commons.wikimedia.org/wiki/File:Acalypha_wilkesiana_Musa%C3%AFca_3.JPG
+
+Flame of the forest (Butea monosperma)
+------------------------------------------
+main.jpg
+  "Flame-of-the-forest (Butea Monosperma).jpg"
+  (c) Varun Omanakuttan, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Flame-of-the-forest_(Butea_Monosperma).jpg
+
+gallery-1.jpg
+  "A Flame of the forest in bloom and a Leopard on the background at Jawai Hills during early morning.jpg"
+  (c) Kingshuk Mondal, CC BY 4.0
+  https://commons.wikimedia.org/wiki/File:A_Flame_of_the_forest_in_bloom_and_a_Leopard_on_the_background_at_Jawai_Hills_during_early_morning.jpg
+
+gallery-2.jpg
+  "Butea monosperma (Lam.) Taub. (51008429813).jpg"
+  (c) India Biodiversity Portal / contributor, CC BY-SA (via Commons)
+  https://commons.wikimedia.org/wiki/File:Butea_monosperma_(Lam.)_Taub._(51008429813).jpg
+
+Garlic vine (Mansoa alliacea)
+---------------------------------
+main.jpg
+  "กระเทียมเถา Mansoa alliacea (Lam.) A (2).jpg"
+  (c) PEAK99, CC BY 3.0
+  https://commons.wikimedia.org/wiki/File:%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%96%E0%B8%B2_Mansoa_alliacea_(Lam.)_A_(2).jpg
+
+gallery-1.jpg
+  "Garlic vine (Mansoa alliacea) flower 2.jpg"
+  (c) David E Mead, CC0 (public domain, no credit required)
+  https://commons.wikimedia.org/wiki/File:Garlic_vine_(Mansoa_alliacea)_flower_2.jpg
+
+gallery-2.jpg
+  "Garlic vine (Mansoa alliacea) flower buds.jpg"
+  (c) David E Mead, CC0 (public domain, no credit required)
+  https://commons.wikimedia.org/wiki/File:Garlic_vine_(Mansoa_alliacea)_flower_buds.jpg
+
+Golden dewdrop (Duranta erecta)
+------------------------------------
+main.jpg
+  "Duranta erecta L. (50441137401).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Duranta_erecta_L._(50441137401).jpg
+
+gallery-1.jpg
+  "Duranta erecta in China (5).jpg"
+  (c) Dinkun Chen, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Duranta_erecta_in_China_(5).jpg
+
+gallery-2.jpg
+  "Ex nihilo nihil fit 37.jpg"
+  (c) Álvaro de la Paz Franco, CC0 (public domain, no credit required)
+  https://commons.wikimedia.org/wiki/File:Ex_nihilo_nihil_fit_37.jpg
+
+Golden shower (Cassia fistula)
+-----------------------------------
+main.jpg
+  "Cassia fistula flowers by Dr. Raju Kasambe DSCN4427 01.jpg"
+  (c) Dr. Raju Kasambe, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Cassia_fistula_flowers_by_Dr._Raju_Kasambe_DSCN4427_01.jpg
+
+gallery-1.jpg
+  "Cassia fistula flower from Savandurga IMG 2394.jpg"
+  (c) contributor, CC BY-SA (via Commons)
+  https://commons.wikimedia.org/wiki/File:Cassia_fistula_flower_from_Savandurga_IMG_2394.jpg
+
+gallery-2.jpg
+  "Chahui or Cassia fistula.JPG"
+  (c) Sisirbanga, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Chahui_or_Cassia_fistula.JPG
+
+Hibiscus (Hibiscus rosa-sinensis)
+---------------------------------------
+main.jpg, gallery-1.jpg, gallery-2.jpg
+  "Hibiscus rosa-sinensis (124/188/145).jpg" — part of a numbered series
+  (c) contributor, CC BY-SA 4.0 (via Commons)
+  https://commons.wikimedia.org/wiki/File:Hibiscus_rosa-sinensis_(124).jpg
+  https://commons.wikimedia.org/wiki/File:Hibiscus_rosa-sinensis_(188).jpg
+  https://commons.wikimedia.org/wiki/File:Hibiscus_rosa-sinensis_(145).jpg
+
+Parrot's beak (Heliconia psittacorum × spathocircinata)
+------------------------------------------------------------
+main.jpg
+  "Heliconia psittacorum - Parakeet Flower at Wayanad (1).jpg"
+  (c) Vinayaraj, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Heliconia_psittacorum_-_Parakeet_Flower_at_Wayanad_(1).jpg
+
+gallery-1.jpg
+  "Heliconia psittacorum kz01.jpg"
+  (c) Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Heliconia_psittacorum_kz01.jpg
+
+gallery-2.jpg
+  "Heliconia psittacorum 14zz.jpg"
+  (c) David J. Stang, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Heliconia_psittacorum_14zz.jpg
+
+Fishtail palm (Caryota urens)
+---------------------------------
+main.jpg
+  "Caryota urens 09300.jpg"
+  (c) Vengolis, CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File:Caryota_urens_09300.jpg
+
+gallery-1.jpg
+  "Caryota urens L. (50516551326).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Caryota_urens_L._(50516551326).jpg
+
+gallery-2.jpg
+  "IMG 0292 Fish-tail palm.jpg"
+  (c) Pawar Pooja, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:IMG_0292_Fish-tail_palm.jpg
+
+Foxtail palm (Wodyetia bifurcata)
+---------------------------------------
+main.jpg
+  "Wodyetia bifurcata-1-GRT-yercaud-salem-India.jpg"
+  (c) Yercaud-elango, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Wodyetia_bifurcata-1-GRT-yercaud-salem-India.jpg
+
+gallery-1.jpg
+  "Wodyetia bifurcata kz2.JPG"
+  (c) Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Wodyetia_bifurcata_kz2.JPG
+
+gallery-2.jpg
+  "Wodyetia bifurcata-3-GRT-yercaud-salem-India.jpg"
+  (c) Yercaud-elango, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Wodyetia_bifurcata-3-GRT-yercaud-salem-India.jpg
+
+Areca palm (Dypsis lutescens)
+---------------------------------
+main.jpg
+  "Dypsis lutescens 2024-01-20 Malaga 03.jpg"
+  (c) Agnieszka Kwiecień, Nova, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Dypsis_lutescens_2024-01-20_Malaga_03.jpg
+
+gallery-1.jpg
+  "Dypsis lutescens (Family Arecaceae) - leaves close-up.jpg"
+  (c) Juan Carlos Fonseca Mata, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Dypsis_lutescens_(Family_Arecaceae)_-_leaves_close-up.jpg
+
+gallery-2.jpg
+  "Cane palm (4630877807).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Cane_palm_(4630877807).jpg
+
+Ruffled fan palm (Licuala grandis)
+----------------------------------------
+main.jpg
+  "Arecales - Licuala grandis - 3.jpg"
+  (c) Emőke Dénes, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Arecales_-_Licuala_grandis_-_3.jpg
+
+gallery-1.jpg
+  "Licuala grandis, AJT Johnsingh. DSCN7752.jpg"
+  (c) Ajtjohnsingh, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Licuala_grandis,_AJT_Johnsingh._DSCN7752.jpg
+
+gallery-2.jpg
+  "Licuala grandis kz02.jpg"
+  (c) Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Licuala_grandis_kz02.jpg
+
+Bael (Aegle marmelos)
+--------------------------
+main.jpg
+  "Aegle marmelos from Thanjavur district JEG0161.jpg"
+  (c) PJeganathan, CC BY 4.0
+  https://commons.wikimedia.org/wiki/File:Aegle_marmelos_from_Thanjavur_district_JEG0161.jpg
+
+gallery-1.jpg
+  "Leaves of Indian bael (Aegle marmelos).jpg"
+  (c) Billjones94, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Leaves_of_Indian_bael_(Aegle_marmelos).jpg
+
+gallery-2.jpg
+  "Bael fruit (2).jpg"
+  (c) S.K. Gawali, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Bael_fruit_(2).jpg
+
+Birch-leaved acalypha (Acalypha fruticosa)
+------------------------------------------------
+main.jpg
+  "Acalypha fruticosa var. fruticosa 2435.jpg"
+  (c) SAplants, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Acalypha_fruticosa_var._fruticosa_2435.jpg
+
+gallery-1.jpg
+  "Acalypha fruticosa var. fruticosa 2435-01.jpg"
+  (c) SAplants, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Acalypha_fruticosa_var._fruticosa_2435-01.jpg
+
+gallery-2.jpg
+  "Acalypha fruticosa-1-nallur-yercaud-salem-India.jpg"
+  (c) Yercaud-elango, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Acalypha_fruticosa-1-nallur-yercaud-salem-India.jpg
+
+Indian ipecac (Vincetoxicum indicum / Tylophora indica)
+--------------------------------------------------------------
+main.jpg
+  "Tylophora indica - Alipore - Kolkata 2013-02-10 4611.JPG"
+  (c) contributor, CC BY-SA (via Commons)
+  https://commons.wikimedia.org/wiki/File:Tylophora_indica_-_Alipore_-_Kolkata_2013-02-10_4611.JPG
+
+gallery-1.jpg
+  "Vincetoxicum indicum (Burm.f.) Mabb. (53540876281).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Vincetoxicum_indicum_(Burm.f.)_Mabb._(53540876281).jpg
+
+gallery-2.jpg
+  "Antamul (Hindi- अंतमूल) (16183468615).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Antamul_(Hindi-_%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%AE%E0%A5%82%E0%A4%B2)_(16183468615).jpg
+
+Krishna tulsi (Ocimum tenuiflorum)
+----------------------------------------
+main.jpg
+  "A flourishing Krishna Tulsi shrub featuring distinctive purplish stems and small flowering spikes growing in a home garden in Assam. 01.jpg"
+  (c) AjayDas, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:A_flourishing_Krishna_Tulsi_shrub_featuring_distinctive_purplish_stems_and_small_flowering_spikes_growing_in_a_home_garden_in_Assam._01.jpg
+
+gallery-1.jpg
+  "Holy Basil(Krishna;Ocimum tenuiflorum).jpg"
+  (c) Diamante Phi, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Holy_Basil(Krishna;Ocimum_tenuiflorum).jpg
+
+gallery-2.jpg
+  "கருந்துளசி 3(Ocimum Tenuiflorum).jpg"
+  (c) Dr.S.Soundarapandian, public domain (no credit required)
+  https://commons.wikimedia.org/wiki/File:%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B3%E0%AE%9A%E0%AE%BF_3(Ocimum_Tenuiflorum).jpg
+
+Kurchi (Holarrhena pubescens)
+----------------------------------
+main.jpg
+  "Holarrhena pubescens 1DS-II 3-2829.jpg"
+  (c) SAplants, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Holarrhena_pubescens_1DS-II_3-2829.jpg
+
+gallery-1.jpg
+  "Holarrhena pubescens-.jpg"
+  (c) BARAKAT2011, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Holarrhena_pubescens-.jpg
+
+gallery-2.jpg
+  "Holarrhena pubescens - കുടകപ്പാല . (33853654956).jpg"
+  (c) Rison Thumboor, Thrissur, India, CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Holarrhena_pubescens_-_%E0%B4%95%E0%B5%81%E0%B4%9F%E0%B4%95%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%BE%E0%B4%B2_._(33853654956).jpg
+
+
+============================================================
+Trees and Fruit — all 44 species added in one pass
+============================================================
+All photos below are from Wikimedia Commons under CC BY or
+CC BY-SA (a few CC0). Photographer credited per photo; find
+the exact filing under the matching Commons search
+(commons.wikimedia.org, search the file name in quotes) for
+the licence page and full attribution string if needed for
+publishing. Most photos are by these regular Commons
+botanical contributors: Dinesh Valke (Thane, India),
+Vinayaraj, Yercaud-elango, Rison Thumboor (Thrissur, Kerala),
+J.M. Garg, Krzysztof Ziarnek "Kenraiz", Forest & Kim Starr,
+P Jeganathan, Anish nellickal, and Judgefloro.
+
+TREES
+Arjun tree (Terminalia arjuna): main/gallery-1 by P Jeganathan
+  (CC BY-SA 3.0, "Terminalia arjuna tree at Kaveri bank near
+  Biligundlu"); gallery-2 by Dinesh Valke (CC BY-SA 2.0).
+Black catechu (Senegalia catechu): all 3 by Dinesh Valke,
+  CC BY-SA 2.0 ("Senegalia catechu" series).
+Bullet wood (Mimusops elengi): all 3 by Dinesh Valke,
+  CC BY-SA 2.0 ("Mimusops elengi L." series).
+Burma ironwood (Xylia xylocarpa): main/gallery-1 by Vinayaraj
+  (CC BY-SA 4.0, "Burma Ironwood flowers at Peravoor", Kerala);
+  gallery-2 by Dolon Prova (CC BY-SA 4.0).
+Cluster fig (Ficus racemosa): main by A.Baihaqi (CC BY-SA 4.0,
+  "Buah Loa"); gallery-1 by Vengolis (CC BY-SA 3.0); gallery-2
+  by Dr. Raju Kasambe (CC BY-SA 4.0).
+Dhaman (Grewia tiliifolia): all 3 by Nativeplants garden,
+  CC BY-SA 4.0.
+Hill mango (Commiphora caudata): main/gallery-1 by Deepa
+  Chandran2014 (CC BY-SA 4.0, Malayalam-titled); gallery-2 by
+  Vinayaraj (CC BY-SA 3.0).
+Indian almond (Terminalia catappa): main by Tournasol7
+  (CC BY 4.0); gallery-1/2 by Dinesh Valke (CC BY-SA 2.0).
+Indian beech (Pongamia pinnata): main/gallery-2 by Dinesh
+  Valke (CC BY-SA 2.0); gallery-1 by Topi Pigula (CC BY-SA 4.0).
+Indian cherry (Cordia dichotoma): all 3 by Dinesh Valke,
+  CC BY-SA 2.0.
+Indian elm (Holoptelea integrifolia): main by Vinayaraj
+  (CC BY-SA 4.0, "Indian Elm fruits at Peravoor", Kerala);
+  gallery-1/2 by Dinesh Valke (CC BY-SA 2.0).
+Indian oak (Barringtonia acutangula): main/gallery-1 by Yahya
+  (CC BY-SA 4.0); gallery-2 by Vinayaraj (CC BY-SA 4.0, Mayyil,
+  Kerala).
+Kaim (Mitragyna parvifolia): all 3 by Dinesh Valke,
+  CC BY-SA 2.0.
+Lindley's aporosa (Aporosa cardiosperma): main/gallery-2 by
+  Vinayaraj (CC BY-SA 4.0, "Fruits at Peravoor", Kerala);
+  gallery-1 by Dinesh Valke (CC BY-SA 2.0).
+Mahua (Madhuca longifolia): all 3 by Dolon Prova, CC BY-SA 4.0.
+Marotti (Hydnocarpus pentandrus): main/gallery-1 by FarEnd2018
+  (CC BY-SA 4.0, Malayalam-titled); gallery-2 by Dinesh Valke
+  (CC BY-SA 2.0).
+Morinda (Morinda pubescens): all 3 by Dinesh Valke,
+  CC BY-SA 2.0.
+Sandalwood (Santalum album): main/gallery-1 by Dinesh Valke
+  (CC BY-SA 2.0); gallery-2 by Nativeplants garden
+  (CC BY-SA 4.0).
+Sandpaper tree (Streblus asper): all 3 by Vinayaraj,
+  CC BY-SA 4.0 ("at Panamaram", Wayanad, Kerala).
+Spinous kino tree (Bridelia retusa): main by Nativeplants
+  garden (CC BY-SA 4.0); gallery-1/2 by Dinesh Valke
+  (CC BY-SA 2.0).
+Strychnine tree (Strychnos nux-vomica): main by Bhaskaranaidu
+  (CC BY-SA 3.0); gallery-1 titled "കാഞ്ഞിരം" (Kanjiram);
+  gallery-2 by Dinesh Valke (CC BY-SA 2.0).
+Teak (Tectona grandis): main by Kwameghana / Bright Kwame Ayisi
+  (CC BY-SA 4.0, "Teak leaf flower"); gallery-1 by Manjeet906
+  (CC BY-SA 4.0, "Horisun"); gallery-2 by Bernard Gagnon
+  (CC BY-SA 3.0, Gir Forest).
+White dammar (Vateria indica): main/gallery-2 by Mrinalini K
+  Siddhartha (CC BY 3.0); gallery-1 by Dinesh Valke
+  (CC BY-SA 2.0).
+White fig (Ficus virens): all 3 by Dinesh Valke, CC BY-SA 2.0.
+
+FRUIT
+Cashew (Anacardium occidentale): main by Xof (CC BY-SA 4.0);
+  gallery-1 by Anish nellickal (CC BY-SA 4.0, Malayalam-titled);
+  gallery-2 by Kateelkshetra (CC BY-SA 3.0).
+Guava (Psidium guajava): main by Zezinho68 (CC BY-SA 4.0);
+  gallery-1 by Ayuwadala (CC BY 4.0); gallery-2 by Chirocca77
+  (CC0).
+Hog plum (Spondias pinnata): main by Shijan Kaakkara
+  (CC BY-SA 4.0, Malayalam-titled); gallery-1 by Forestowlet
+  (CC0); gallery-2 by Rohit Naniwadekar (CC BY-SA 4.0).
+Indian gooseberry (Phyllanthus emblica): main/gallery-2 by
+  കാക്കര (CC BY-SA 4.0, Malayalam-titled); gallery-1 by
+  Ragavkn87 (CC BY-SA 4.0).
+Jackfruit (Artocarpus heterophyllus): main/gallery-1 by A S M
+  Jobaer (CC BY-SA 4.0); gallery-2 by Treeworld Wholesale
+  (CC BY 2.0).
+Java plum (Syzygium cumini): main by Ahman10 (CC0); gallery-1/2
+  by Judgefloro (CC BY-SA 4.0).
+Khirni (Manilkara hexandra): main by Snehrashmi (CC BY-SA 4.0);
+  gallery-1 by Dinesh Valke (CC BY-SA 2.0); gallery-2 by
+  Adityamadhav83 (CC BY-SA 4.0).
+Lime (Citrus aurantiifolia): main by Undeka 11 (CC BY-SA 4.0);
+  gallery-1/2 by Jeevan Jose, Kerala, India (CC BY-SA 4.0,
+  Kadavoor, Kerala).
+Mango (Mangifera indica): main by cricketsblog (CC BY 2.0);
+  gallery-1/2 by Daderot (CC0).
+Rambutan (Nephelium lappaceum): main by Shagil Muzhappilangad
+  (CC BY-SA 4.0, Thiruvananthapuram, Kerala); gallery-1 by
+  Michael Hermann / CropsfortheFuture.org (CC BY-SA 3.0);
+  gallery-2 by Anish nellickal (CC BY-SA 4.0, Malayalam-titled).
+Sapota (Manilkara zapota): main by Dinesh Valke (CC BY-SA 2.0);
+  gallery-1 by Daderot (CC0); gallery-2 by Judgefloro
+  (CC BY-SA 4.0).
+Soursop (Annona muricata): main by Derk29 (CC BY-SA 4.0);
+  gallery-1 by Bérenger504 (CC BY-SA 4.0); gallery-2 by
+  Krzysztof Golik (CC BY-SA 4.0).
+Star fruit (Averrhoa carambola): main uncredited upload
+  (check Commons page); gallery-1 by RAJENDRAN T M
+  (CC BY-SA 4.0); gallery-2 by Yercaud-elango (CC BY-SA 4.0).
+Star gooseberry (Phyllanthus acidus): main by Rison Thumboor
+  (CC BY 2.0, Thrissur, Kerala); gallery-1 by Hải Vũ Thanh
+  (CC BY-SA 4.0); gallery-2 by Forest & Kim Starr (CC BY 3.0 us).
+Strawberry guava (Psidium cattleyanum): main by Bageense
+  (CC BY-SA 4.0); gallery-1 by Daderot (CC0); gallery-2 by
+  Krzysztof Ziarnek, Kenraiz (CC BY-SA 4.0).
+Tamarind (Tamarindus indica): main by Dr. Ajay Balachandran
+  (CC BY-SA 3.0, Malayalam-titled "പുളിമരം"); gallery-1 by
+  Ji-Elle (CC BY-SA 4.0); gallery-2 by Biplab Anand
+  (CC BY-SA 4.0).
+Water apple (Syzygium aqueum): main/gallery-1 by Vijayanrajapuram
+  (CC BY-SA 4.0); gallery-2 by A.C.T. Alejandre (CC BY-SA 4.0).
+White mulberry (Morus alba): main/gallery-1 by Zerocool.marko
+  (CC BY-SA 4.0); gallery-2 by Nucatum amygdalarum
+  (CC BY-SA 4.0).
+Yellow mangosteen (Garcinia xanthochymus): main/gallery-1 by
+  Forest & Kim Starr (CC BY 3.0 us); gallery-2 by Florimagix
+  (CC BY-SA 4.0).
+
+MEDICINAL (added with the Trees/Fruit batch)
+Wild croton (Baliospermum solanifolium): all 3 by Dinesh Valke,
+  CC BY-SA 2.0.
+
+Leafy milk hedge (Euphorbia nivulia)
+------------------------------------------
+main.jpg
+  "Euphorbia nivulia stem and leaf pattern.jpg"
+  (c) Prashanthmb, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Euphorbia_nivulia_stem_and_leaf_pattern.jpg
+
+gallery-1.jpg
+  "Euphorbiaceae Euphorbia nivulia 2.jpg"
+  (c) NasserHalaweh, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Euphorbiaceae_Euphorbia_nivulia_2.jpg
+
+gallery-2.jpg
+  "Euphorbia nivulia bark and leaf pattern.jpg"
+  (c) Prashanthmb, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Euphorbia_nivulia_bark_and_leaf_pattern.jpg
+
+Lesser galangal (Alpinia calcarata)
+-----------------------------------------
+main.jpg
+  "Alpinia calcarata-HRS-1-yercaud-salem-India.JPG"
+  (c) Yercaud-elango, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Alpinia_calcarata-HRS-1-yercaud-salem-India.JPG
+
+gallery-1.jpg
+  "Alpinia calcarata (Haw.) Roscoe (52041159442).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Alpinia_calcarata_(Haw.)_Roscoe_(52041159442).jpg
+
+gallery-2.jpg
+  "Alpinia calcarata (Haw.) Roscoe (52041160337).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Alpinia_calcarata_(Haw.)_Roscoe_(52041160337).jpg
+
+Moovila (Pseudarthria viscida)
+--------------------------------
+main.jpg
+  "Pseudarthria viscida (8105934946).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Pseudarthria_viscida_(8105934946).jpg
+
+gallery-1.jpg
+  "Pseudarthria viscida-മൂവില.jpg"
+  (c) FarEnd2018, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Pseudarthria_viscida-%E0%B4%AE%E0%B5%82%E0%B4%B5%E0%B4%BF%E0%B4%B2.jpg
+
+gallery-2.jpg
+  "Pseudarthria viscida at Pulikurumba.jpg"
+  (c) Nativeplants garden, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Pseudarthria_viscida_at_Pulikurumba.jpg
+
+Neem (Azadirachta indica)
+----------------------------
+main.jpg
+  "Azadirachta indica-Neem tree.jpg"
+  (c) Kwameghana (Bright Kwame Ayisi), CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Azadirachta_indica-Neem_tree.jpg
+
+gallery-1.jpg
+  "Azadirachta indica A.Juss. (52074923113).jpg"
+  (c) Dinesh Valke, Thane, India, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Azadirachta_indica_A.Juss._(52074923113).jpg
+
+gallery-2.jpg
+  "Azadirachta indica July 2025.jpg"
+  (c) Knowledge and philosophy, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Azadirachta_indica_July_2025.jpg
+
+Sabah snake grass (Clinacanthus nutans)
+------------------------------------------
+main.jpg
+  "Clinacanthus nutans 12.JPG"
+  (c) Vinayaraj, CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File:Clinacanthus_nutans_12.JPG
+
+gallery-1.jpg
+  "Clinacanthus nutans 03.JPG"
+  (c) Vinayaraj, CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File:Clinacanthus_nutans_03.JPG
+
+gallery-2.jpg
+  "Clinacanthus nutans 0.jpg"
+  (c) Pescov, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Clinacanthus_nutans_0.jpg

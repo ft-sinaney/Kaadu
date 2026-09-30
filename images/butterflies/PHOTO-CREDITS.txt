@@ -1,0 +1,91 @@
+Butterfly photo credits
+=======================
+All photos are from Wikimedia Commons, used under their stated
+Creative Commons licences (CC BY / CC BY-SA). These licences require
+attribution — keep this file, or credit the photographers somewhere
+on the published site (e.g. a small "Photo credits" page or footer).
+
+Plain tiger (Danaus chrysippus)
+--------------------------------
+main.jpg
+  "African Monarch (Danaus chrysippus aegyptius)"
+  (c) Bernard DUPONT, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:African_Monarch_(Danaus_chrysippus_aegyptius)_(17389277322).jpg
+
+gallery-1.jpg
+  "Butterfly-PlainTiger4.jpg"
+  (c) Vasukrishnan57, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Butterfly-PlainTiger4.jpg
+
+gallery-2.jpg
+  "Danaus chrysippus (30471396181).jpg"
+  (c) Rolf Dietrich Brecher, CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Danaus_chrysippus_(30471396181).jpg
+
+Common tiger (Danaus genutia)
+--------------------------------
+main.jpg
+  "Common tiger butterfly.jpg"
+  (c) Saikat Show, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Common_tiger_butterfly.jpg
+
+gallery-1.jpg
+  "Indian Tiger Butterfly (Danaus genutia).jpg"
+  (c) Knthabrew, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Indian_Tiger_Butterfly_(Danaus_genutia).jpg
+
+gallery-2.jpg
+  "Striped Tiger (Danaus genutia) (42965737291).jpg"
+  (c) Rison Thumboor, Thrissur, India — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Striped_Tiger_(Danaus_genutia)_(42965737291).jpg
+
+Common crow (Euploea core)
+---------------------------
+main.jpg
+  "Common crow (Euploea core) (27468432474).jpg"
+  (c) Rison Thumboor, Thrissur, India — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Common_crow_(Euploea_core)_(27468432474).jpg
+
+gallery-1.jpg
+  "Butterfly Common Crow (Euploea core) from Madayipara"
+  (c) Manoj Karingamadathil, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Butterfly_Common_Crow_(Euploea_core)_from_Madayipara_DSCN2056.jpg
+
+gallery-2.jpg
+  "Common Crow Butterfly.jpg"
+  (c) Fiona 77, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Common_Crow_Butterfly.jpg
+
+Blue tiger (Tirumala limniace)
+--------------------------------
+main.jpg
+  "Blue Tiger Butterfly.jpg"
+  (c) Dr. Satyabrata Ghosh, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Blue_Tiger_Butterfly.jpg
+
+gallery-1.jpg
+  "Blue Tiger @ Kanjirappally.jpg"
+  (c) Praveenp, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Blue_Tiger_@_Kanjirappally.jpg
+
+gallery-2.jpg
+  "Open wing basking position of Tirumala limniace - Blue Tiger DSC 1130.jpg"
+  (c) Atudu, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Open_wing_basking_position_of_Tirumala_limniace_(Cramer,_1775)_-_Blue_Tiger_DSC_1130.jpg
+
+Commander (Moduza procris)
+---------------------------
+main.jpg
+  "Commander (22844369634).jpg"
+  (c) Tareq Uddin Ahmed, Chittagong, Bangladesh — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Commander_(22844369634).jpg
+
+gallery-1.jpg
+  "Commander (Moduza procris) വെള്ളിലത്തോഴി (36755268645).jpg"
+  (c) Rison Thumboor, Thrissur, India — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Commander_(Moduza_procris)_%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF%E0%B4%B2%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%B4%E0%B4%BF._(36755268645).jpg
+
+gallery-2.jpg
+  "Commander Butterfly, belvai.jpg"
+  (c) Sajeesh Radhakrishnan, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Commander_Butterfly,_belvai.jpg
