@@ -211,6 +211,9 @@ function paint(i) {
   if (!im) return;
   const cw = seqCanvas.width, ch = seqCanvas.height;
   ctx.fillStyle = PAPER; ctx.fillRect(0, 0, cw, ch);
+  /* resizing the canvas resets this, so set it on every paint */
+  ctx.imageSmoothingEnabled = true;
+  ctx.imageSmoothingQuality = "high";
   /* Desktop: the canvas box is roomy, so a plain contain fit works.
      Phones: the box is short and wide, which leaves the subject tiny
      inside all the empty sky the frames carry. Fill the box instead
