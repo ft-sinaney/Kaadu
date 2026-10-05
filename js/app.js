@@ -799,5 +799,50 @@ requestAnimationFrame(tick);
    the homepage or a deep link (a species page, #flora, a QR scan) */
 loadFrames(() => { measure(); readScroll(); });
 
+/* ============================================================
+   AUTOPLAY VARIANT — the growth sequence plays by itself
+   ============================================================ */
+const AUTO_DELAY = 1000;  /* ms after the page loads before it starts */
+const AUTO_MS = 9000;     /* how long the whole growth takes, seed to canopy */
+(function autoplay() {
+  /* leave deep links (QR scans, species pages) and reduced-motion users alone */
+  if (REDUCED || location.hash) return;
+  /* a reload should start from the seed, not from wherever the browser remembers */
+  if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+  scrollTo({ top: 0, behavior: "instant" });
+
+  let raf = 0, stopped = false, prog = 0, last = 0;
+  const ease = p => -(Math.cos(Math.PI * p) - 1) / 2;
+  const EVENTS = ["wheel", "touchstart", "keydown", "pointerdown"];
+  const stop = () => {
+    stopped = true;
+    cancelAnimationFrame(raf);
+    EVENTS.forEach(e => removeEventListener(e, stop));
+    /* hand scroll memory back to the browser, so Back from a plant's
+       page returns to the same spot in the list */
+    if ("scrollRestoration" in history) history.scrollRestoration = "auto";
+  };
+  EVENTS.forEach(e => addEventListener(e, stop, { passive: true }));
+
+  const step = now => {
+    if (stopped || finished) return stop();
+    const dt = Math.min(now - last, 50);
+    last = now;
+    /* frames load in order; if the picture would run ahead of what has
+       arrived, wait for it instead of skipping over missing frames */
+    const nextIdx = Math.min(N - 1, OFF + Math.ceil(ease(Math.min(1, (prog * AUTO_MS + dt) / AUTO_MS)) * SPAN) + 4);
+    if (imgs[nextIdx] !== undefined) prog = Math.min(1, prog + dt / AUTO_MS);
+    scrollTo({ top: heroTop + ease(prog) * heroRange, behavior: "instant" });
+    if (prog >= 1) return stop();
+    raf = requestAnimationFrame(step);
+  };
+
+  setTimeout(() => {
+    if (stopped || scrollY > 5) return stop();
+    measure();
+    requestAnimationFrame(t => { last = t; raf = requestAnimationFrame(step); });
+  }, AUTO_DELAY);
+})();
+
 })();
 
